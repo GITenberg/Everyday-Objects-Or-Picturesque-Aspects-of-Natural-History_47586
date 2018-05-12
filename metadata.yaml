@@ -1,4 +1,8 @@
 _repo: Everyday-Objects-Or-Picturesque-Aspects-of-Natural-History_47586
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47586-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Adams, W. H. Davenport (William Henry Davenport)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '34969'
     url: http://www.gutenberg.org/2009/agents/34969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47586#Everyday-Objects-Or-Picturesque-Aspects-of-Natural-History
 gutenberg_issued: '2014-12-08'
 gutenberg_type: Text
 identifiers:
